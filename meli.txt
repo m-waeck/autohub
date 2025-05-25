@@ -1,0 +1,3 @@
+Also es gibt folgende Kategorien: Motor&Batterie&Getriebe&Fahrwerk&Lenkung ; Pakete ; Sicherheit ; Audio&Kommunikation ; Komfort ; Interieur ; Exterieur ; Weiteres
+
+Ich schreib ChatGPT immer „Unterteile mit folgende Punkte:  (Bsp. Sitzheizung, Spurhalteassistent) in folgende Kategorien (Sicherheit ; Komfort) nach Alphabet“
